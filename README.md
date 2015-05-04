@@ -50,6 +50,10 @@ Now you can import the project into Eclipse and "everything" should be working.
 
 Happy Development
 
-# Project home page:
+Comments or questions? [Join the user group](http://groups.google.com/group/neo-users)
 
-[neo-web2py2eclipse](https://github.com/Pierre-Thibault/neo-web2py2eclipse/)
+Author: Pierre Thibault (pierre.thibault1 -at- gmail.com)
+
+License: MIT
+
+Project page: [neo-web2py2eclipse](https://github.com/Pierre-Thibault/neo-web2py2eclipse/)
